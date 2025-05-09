@@ -10,10 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/QGame-Packages"
+    "url": "https://github.com/QGame-Packages/init"
   },
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/@QGame-Packages"
+  },
+
+  "dependencies": {
+    "com.halodi.halodi-unity-package-registry-manager": "1.0.5"
   },
   "relatedPackages": {}
 }
