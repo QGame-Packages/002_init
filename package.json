@@ -1,8 +1,8 @@
 {
-  "name": "com.qgame.init",
-  "displayName": "init",
-  "version": "0.0.2",
-  "unity": "2022.3.61f1",
+  "name": "com.qgame.002_init",
+  "displayName": "002_init",
+  "version": "0.0.3",
+  "unity": "2022.3",
   "description": "qgame init",
   "author": {
     "name": "q",
@@ -17,7 +17,6 @@
   },
 
   "dependencies": {
-    "com.halodi.halodi-unity-package-registry-manager": "1.0.5"
   },
   "relatedPackages": {}
 }
