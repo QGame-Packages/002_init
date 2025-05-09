@@ -1,16 +1,19 @@
 {
   "name": "com.qgame.init",
-  "displayName": "ET.Init",
+  "displayName": "init",
   "version": "0.0.1",
-  "unity": "2022.3.61f",
-  "description": "et init",
+  "unity": "2022.3.61f1",
+  "description": "qgame init",
   "author": {
     "name": "q",
-    "url": "https://github.com/QGame-Packages"
+    "url": "https://github.com/QGame-Packages/init"
   },
   "repository": {
     "type": "git",
     "url": "https://github.com/QGame-Packages"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/@QGame-Packages"
   },
   "relatedPackages": {}
 }
